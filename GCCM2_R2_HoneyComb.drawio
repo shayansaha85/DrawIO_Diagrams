@@ -1,0 +1,136 @@
+<mxfile host="app.diagrams.net" modified="2024-07-03T12:39:23.423Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="Jf9gpYk0JDJXGYWF_mx2" version="24.6.4" type="github">
+  <diagram name="Page-1" id="2zCn9knnd7bARhnNJoSH">
+    <mxGraphModel dx="1434" dy="688" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="TKgCZnQ7XJR04IM1Zixz-37" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="818" y="293" width="179" height="238" as="geometry" />
+        </mxCell>
+        <mxCell id="TKgCZnQ7XJR04IM1Zixz-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="TKgCZnQ7XJR04IM1Zixz-1" target="TKgCZnQ7XJR04IM1Zixz-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TKgCZnQ7XJR04IM1Zixz-6" value="&lt;div&gt;click / hover&lt;/div&gt;&lt;div&gt;(TBD)&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="TKgCZnQ7XJR04IM1Zixz-5">
+          <mxGeometry x="0.2353" y="-25" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TKgCZnQ7XJR04IM1Zixz-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="TKgCZnQ7XJR04IM1Zixz-1" target="TKgCZnQ7XJR04IM1Zixz-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TKgCZnQ7XJR04IM1Zixz-1" value="" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;direction=south;fontColor=#ffffff;fillColor=#e51400;strokeColor=#B20000;" vertex="1" parent="1">
+          <mxGeometry x="504" y="241" width="96.5" height="107.5" as="geometry" />
+        </mxCell>
+        <mxCell id="TKgCZnQ7XJR04IM1Zixz-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="TKgCZnQ7XJR04IM1Zixz-2" target="TKgCZnQ7XJR04IM1Zixz-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TKgCZnQ7XJR04IM1Zixz-2" value="Honeycomb for&lt;div&gt;PRP application&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="391" y="176" width="102" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="TKgCZnQ7XJR04IM1Zixz-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="TKgCZnQ7XJR04IM1Zixz-4" target="TKgCZnQ7XJR04IM1Zixz-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TKgCZnQ7XJR04IM1Zixz-4" value="ALERT_CONDITION_1&lt;div&gt;&lt;i&gt;&lt;font color=&quot;#de2c39&quot;&gt;critical&lt;/font&gt;&lt;font color=&quot;#757575&quot;&gt; time &lt;/font&gt;&lt;font style=&quot;&quot; color=&quot;#0233f5&quot;&gt;&lt;u&gt;incidentLink&lt;/u&gt;&lt;/font&gt;&lt;/i&gt;&lt;/div&gt;&lt;div&gt;&lt;i&gt;&lt;font color=&quot;#757575&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/i&gt;&lt;/div&gt;&lt;div&gt;ALERT_CONDITION_2&lt;div&gt;&lt;i&gt;&lt;font color=&quot;#decf00&quot;&gt;warning&lt;/font&gt;&lt;font color=&quot;#757575&quot;&gt;&amp;nbsp;time&amp;nbsp;&lt;/font&gt;&lt;/i&gt;&lt;i style=&quot;background-color: initial;&quot;&gt;&lt;font color=&quot;#0233f5&quot;&gt;&lt;u&gt;incidentLink&lt;/u&gt;&lt;/font&gt;&lt;/i&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;i&gt;&lt;font color=&quot;#757575&quot;&gt;.....&lt;/font&gt;&lt;/i&gt;&lt;/div&gt;&lt;div&gt;&lt;i&gt;&lt;font color=&quot;#757575&quot;&gt;.....&lt;/font&gt;&lt;/i&gt;&lt;/div&gt;&lt;div&gt;&lt;i&gt;&lt;font color=&quot;#757575&quot;&gt;.....&lt;/font&gt;&lt;/i&gt;&lt;/div&gt;&lt;div&gt;&lt;i&gt;&lt;font color=&quot;#757575&quot;&gt;.....&lt;/font&gt;&lt;/i&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;spacing=12;" vertex="1" parent="1">
+          <mxGeometry x="614" y="413" width="180" height="168" as="geometry" />
+        </mxCell>
+        <mxCell id="TKgCZnQ7XJR04IM1Zixz-10" value="" style="group;fontSize=14;fontStyle=1" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="826" y="302" width="163" height="66.25" as="geometry" />
+        </mxCell>
+        <mxCell id="TKgCZnQ7XJR04IM1Zixz-8" value="&lt;span&gt;NerdGraphQL for fetching title, incident link, priorty, timestamp&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=0" vertex="1" parent="TKgCZnQ7XJR04IM1Zixz-10">
+          <mxGeometry y="16.93290734824281" width="163" height="49.31709265175718" as="geometry" />
+        </mxCell>
+        <mxCell id="TKgCZnQ7XJR04IM1Zixz-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TKgCZnQ7XJR04IM1Zixz-12" target="TKgCZnQ7XJR04IM1Zixz-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TKgCZnQ7XJR04IM1Zixz-12" value="scrap" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="884" y="473.5" width="47" height="47" as="geometry" />
+        </mxCell>
+        <mxCell id="TKgCZnQ7XJR04IM1Zixz-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TKgCZnQ7XJR04IM1Zixz-8" target="TKgCZnQ7XJR04IM1Zixz-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TKgCZnQ7XJR04IM1Zixz-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="TKgCZnQ7XJR04IM1Zixz-15" target="TKgCZnQ7XJR04IM1Zixz-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TKgCZnQ7XJR04IM1Zixz-15" value="filters" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="496" y="579" width="49" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="TKgCZnQ7XJR04IM1Zixz-23" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="615" y="638" width="160" height="132" as="geometry" />
+        </mxCell>
+        <mxCell id="TKgCZnQ7XJR04IM1Zixz-17" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Dropdown button&lt;/font&gt;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#82b366;strokeWidth=1;fillColor=#d5e8d4;whiteSpace=wrap;align=left;verticalAlign=middle;fontStyle=0;fontSize=14;spacingLeft=10;" vertex="1" parent="TKgCZnQ7XJR04IM1Zixz-23">
+          <mxGeometry width="107.88235294117648" height="28.758169934640517" as="geometry" />
+        </mxCell>
+        <mxCell id="TKgCZnQ7XJR04IM1Zixz-18" value="" style="shape=triangle;direction=south;fillColor=#647687;strokeColor=#314354;perimeter=none;fontColor=#ffffff;" vertex="1" parent="TKgCZnQ7XJR04IM1Zixz-17">
+          <mxGeometry x="1" y="0.5" width="10" height="5" relative="1" as="geometry">
+            <mxPoint x="-17" y="-2.5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TKgCZnQ7XJR04IM1Zixz-19" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=#ffffff;strokeColor=#999999;" vertex="1" parent="TKgCZnQ7XJR04IM1Zixz-23">
+          <mxGeometry y="30.92" width="160" height="101.08" as="geometry" />
+        </mxCell>
+        <mxCell id="TKgCZnQ7XJR04IM1Zixz-20" value="ALERT_CONDITION_1" style="fillColor=none;strokeColor=none;align=left;spacing=20;fontSize=12;" vertex="1" parent="TKgCZnQ7XJR04IM1Zixz-19">
+          <mxGeometry width="170" height="30" relative="1" as="geometry">
+            <mxPoint y="10" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TKgCZnQ7XJR04IM1Zixz-21" value="ALERT_CONDITION_2" style="fillColor=none;strokeColor=none;align=left;spacing=20;fontSize=12;" vertex="1" parent="TKgCZnQ7XJR04IM1Zixz-19">
+          <mxGeometry width="170" height="30" relative="1" as="geometry">
+            <mxPoint y="40" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TKgCZnQ7XJR04IM1Zixz-22" value="........" style="fillColor=none;strokeColor=none;align=left;spacing=20;fontSize=14;" vertex="1" parent="TKgCZnQ7XJR04IM1Zixz-19">
+          <mxGeometry width="170" height="30" relative="1" as="geometry">
+            <mxPoint y="70" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TKgCZnQ7XJR04IM1Zixz-25" value="unique list of titles will be populated in the dropdown select element" style="rounded=1;whiteSpace=wrap;html=1;spacing=6;" vertex="1" parent="1">
+          <mxGeometry x="863" y="543" width="120" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="TKgCZnQ7XJR04IM1Zixz-26" value="" style="group;fontSize=14;fontStyle=1" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="1103" y="664.87" width="163" height="78.25" as="geometry" />
+        </mxCell>
+        <mxCell id="TKgCZnQ7XJR04IM1Zixz-27" value="&lt;span&gt;NerdGraphQL for fetching unique titles which are open&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=0" vertex="1" parent="TKgCZnQ7XJR04IM1Zixz-26">
+          <mxGeometry x="-36" y="-114" width="163" height="58.25" as="geometry" />
+        </mxCell>
+        <mxCell id="TKgCZnQ7XJR04IM1Zixz-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="TKgCZnQ7XJR04IM1Zixz-27" target="TKgCZnQ7XJR04IM1Zixz-25">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1035" y="585" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TKgCZnQ7XJR04IM1Zixz-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.875;entryY=0.001;entryDx=0;entryDy=0;entryPerimeter=0;curved=1;" edge="1" parent="1" source="TKgCZnQ7XJR04IM1Zixz-25" target="TKgCZnQ7XJR04IM1Zixz-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TKgCZnQ7XJR04IM1Zixz-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=baseDash;endFill=0;" edge="1" parent="1" source="TKgCZnQ7XJR04IM1Zixz-32">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="602.5849056603774" y="454.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TKgCZnQ7XJR04IM1Zixz-32" value="filter will be able to update the list in the alert box with all the possible &lt;i&gt;&lt;font color=&quot;#636363&quot;&gt;priorities, timestamp and incident links&lt;/font&gt;&lt;/i&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="282" y="406" width="172" height="97" as="geometry" />
+        </mxCell>
+        <mxCell id="TKgCZnQ7XJR04IM1Zixz-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=baseDash;endFill=0;" edge="1" parent="1" source="TKgCZnQ7XJR04IM1Zixz-38">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1009.9473684210529" y="394" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TKgCZnQ7XJR04IM1Zixz-38" value="the dotted block&amp;nbsp;&lt;div&gt;will&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;onlybe applied&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;if there is no FILTER&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1077" y="367" width="127" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="TKgCZnQ7XJR04IM1Zixz-40" value="T" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="757" y="545" width="22" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="TKgCZnQ7XJR04IM1Zixz-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="TKgCZnQ7XJR04IM1Zixz-42" target="TKgCZnQ7XJR04IM1Zixz-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TKgCZnQ7XJR04IM1Zixz-42" value="color&lt;div&gt;verdict&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="635" y="145" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TKgCZnQ7XJR04IM1Zixz-44" value="from the list of alerts, if any alert is critical then RED color will be applied on the honeycomb, if any alert is warning AMBER color will be applied on the honeycomb, if there&#39;s no warning or critical, GREEN color will be applied" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=2;spacing=7;" vertex="1" parent="1">
+          <mxGeometry x="818" y="137.5" width="292" height="75" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
