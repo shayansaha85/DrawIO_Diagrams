@@ -1,9 +1,12 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="26.0.4">
   <diagram name="Page-1" id="eBslk7wmS1e1T6OSuGHc">
-    <mxGraphModel dx="1863" dy="965" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+    <mxGraphModel dx="1863" dy="923" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="7irCT8jfKJjp8e5JyJTQ-27" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=none;strokeColor=#049C22;" vertex="1" parent="1">
+          <mxGeometry x="925" y="1063" width="575" height="220" as="geometry" />
+        </mxCell>
         <mxCell id="7irCT8jfKJjp8e5JyJTQ-7" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=none;strokeColor=#049C22;" vertex="1" parent="1">
           <mxGeometry x="1520" y="560" width="510" height="500" as="geometry" />
         </mxCell>
@@ -214,13 +217,11 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7irCT8jfKJjp8e5JyJTQ-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7irCT8jfKJjp8e5JyJTQ-13">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1120" y="1122" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="7irCT8jfKJjp8e5JyJTQ-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=blockThin;endFill=1;" edge="1" parent="1" source="7irCT8jfKJjp8e5JyJTQ-13" target="7irCT8jfKJjp8e5JyJTQ-17">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="7irCT8jfKJjp8e5JyJTQ-13" value="scan_qr()" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;fontStyle=0;fontSize=13;" vertex="1" parent="1">
-          <mxGeometry x="955" y="1107" width="90" height="30" as="geometry" />
+          <mxGeometry x="975" y="1125.5" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="7irCT8jfKJjp8e5JyJTQ-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=blockThin;endFill=1;" edge="1" parent="1" source="7irCT8jfKJjp8e5JyJTQ-17" target="7irCT8jfKJjp8e5JyJTQ-18">
           <mxGeometry relative="1" as="geometry" />
@@ -239,19 +240,16 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="7irCT8jfKJjp8e5JyJTQ-17" value="Fetches Aadhaar Card No and finds if it exists in S1" style="rounded=0;whiteSpace=wrap;html=1;spacing=7;" vertex="1" parent="1">
-          <mxGeometry x="1120" y="1077" width="120" height="90" as="geometry" />
+          <mxGeometry x="1120" y="1095.5" width="120" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="7irCT8jfKJjp8e5JyJTQ-18" value="Sends the data to S2" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1390" y="1104.5" width="90" height="35" as="geometry" />
+        <mxCell id="7irCT8jfKJjp8e5JyJTQ-18" value="Sends the data to S2 with an additional column : Date" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1390" y="1087.75" width="90" height="105.5" as="geometry" />
         </mxCell>
         <mxCell id="7irCT8jfKJjp8e5JyJTQ-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=blockThin;endFill=1;" edge="1" parent="1" source="7irCT8jfKJjp8e5JyJTQ-18" target="7irCT8jfKJjp8e5JyJTQ-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="7irCT8jfKJjp8e5JyJTQ-23" value="Throws error on screen" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1125" y="1233" width="110" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="7irCT8jfKJjp8e5JyJTQ-27" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=none;strokeColor=#049C22;" vertex="1" parent="1">
-          <mxGeometry x="925" y="1063" width="575" height="220" as="geometry" />
+          <mxGeometry x="1125" y="1240" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="7irCT8jfKJjp8e5JyJTQ-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=blockThin;endFill=1;strokeColor=#049C22;entryX=0.13;entryY=-0.004;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="jVRxyoQ3wr-jkIcxImyI-17" target="7irCT8jfKJjp8e5JyJTQ-27">
           <mxGeometry relative="1" as="geometry">
